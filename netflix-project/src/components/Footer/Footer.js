@@ -26,6 +26,12 @@ const Footer = () => {
             <li>Cookie Preferences</li>
           </ul>
           <ul>
+            <li>Gift Cards</li>
+            <li>Terms of Use</li>
+            <li>Corporate Information</li>
+          </ul>
+
+          <ul>
             <li>Media Center</li>
             <li>Privacy</li>
             <li>Contact Us</li>
